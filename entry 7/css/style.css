@@ -1,0 +1,186 @@
+body{
+    background-color: rgb(15, 77, 147);
+}
+.speed1{
+    background-color: rgb(0, 0, 0);
+    width: 700px;
+    height: 500px;
+    border-radius: 90%;
+    position: relative;
+    left: 350px;
+    top: 100px;
+}
+#speed{
+color: rgb(255, 0, 0);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 700;
+font-style: italic;
+font-size: 500%;
+position: relative;
+left: 210px;
+top: 60px;
+}
+#walking{
+color: rgb(255, 0, 0);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 700;
+font-style: italic;
+font-size: 500%;
+position: relative;
+left: 160px;
+top: -20px;
+}
+
+#in{
+color: rgb(255, 0, 0);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 700;
+font-style: italic;
+font-size: 500%;
+position: relative;
+left: 290px;
+top: -90px;
+}
+
+#NYC{
+color: rgb(255, 0, 0);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 700;
+font-style: italic;
+font-size: 500%;
+position: relative;
+left: 250px;
+top: -160px;
+}
+.sq{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    rotate: -30deg;
+    position: relative;
+    top: -610px;
+    left: -60px;
+
+}
+
+.RESIZE{
+color: rgb(255, 0, 0);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size: 380%;
+position: relative;
+left: 20px;
+}
+.THE{
+color: rgb(255, 0, 0);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size: 380%;
+position: relative;
+left: 20px;
+top: -60px;
+}
+.PAGE{
+color: rgb(255, 0, 0);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size: 380%;
+position: relative;
+left: 20px;
+top: -135px;
+
+}
+.walk{
+    background-color:rgb(15, 77, 147);
+    width: 100px;
+    height: 100px;
+    
+}
+#afraid{
+color: rgb(15, 77, 147);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 700;
+font-style: italic;
+font-size: 100%;
+}
+#to{
+color: rgb(15, 77, 147);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 700;
+font-style: italic;
+font-size: 100%;  
+}
+#feel{
+color: rgb(15, 77, 147);
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 700;
+font-style: italic;
+font-size: 100%;
+}
+@media screen and (max-width:1200px){
+    body{
+        background-color: rgb(255, 0, 0);
+    }
+    .speed1{
+        background-color: rgb(255, 0, 0);
+    }
+    #speed{
+        color: rgb(255, 0, 0);
+    }
+    #walking{
+        color: rgb(255, 0, 0);
+    }
+    #in{
+        color: rgb(255, 0, 0);
+    }
+    #NYC{
+        color:rgb(255, 0, 0);
+
+    }
+    .walk{
+        background-image: url(walk\ sign.png);
+        background-size: 1920px x 1080px ;
+        background-color: rgb(255, 0, 0);
+        width: 500px;
+        height: 400px;
+        position: relative;
+        left: 350px;
+        top: -400px;
+    }
+    #afraid{
+    color: rgb(255, 255, 255);
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 270%;
+    position: relative;
+    left: 160px;
+    top: 80px;
+    }
+    #to{
+    color: rgb(255, 255, 255);
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 270%;
+    position: relative;
+    left: 160px;
+    top: 50px;
+    }
+    #feel{
+     color: rgb(255, 255, 255);
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 270%;
+    position: relative;
+    left: 160px;
+    top: 20px;
+    }
+    .sq{
+        background-color: rgb(255, 0, 0);
+    }
+}
